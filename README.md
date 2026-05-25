@@ -140,9 +140,17 @@ Die ALI ist ein kohärenter Gegenentwurf: baubar, kontrollierbar, lokal begrenzt
 
 Autor
 Wolfgang Stegemann
-ORCID: 0009-0000-1196-1170
-Zenodo: https://zenodo.org/search?q=stegemann&l=list&p=1&s=10&sort=bestmatch
-philosophies.de
+ORCID: #!/usr/bin/env python3
+"""
+ALI-Simulation v2b: Architektonisch bereinigt.
 
-Lizenz
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Kausaler Kern  = operatives Selbsterhaltungsprinzip (skalare Energie)
+Ich            = löst die Aufgabe unter dem Aspekt des Selbsterhalts
+Über-Ich       = setzt normative Grenzen
+
+task_progress ist externe Beobachtungsmetrik, kein KK-Zustand.
+carrying       ist Ich-Zustand, kein KK-Zustand.
+
+Ohne kausalen Kollaps, ohne Qualia.
+Autor: Wolfgang Stegemann
+ORCID: 0009-0000-1346-1170
